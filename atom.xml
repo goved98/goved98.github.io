@@ -3,11 +3,11 @@
   <title>Goved</title>
   
   <subtitle>我不知道将去何方，但我已在路上</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://www.goved.love/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://www.goved.love/"/>
   <updated>2024-10-31T08:58:13.146Z</updated>
-  <id>http://example.com/</id>
+  <id>http://www.goved.love/</id>
   
   <author>
     <name>Goved</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于我自己</title>
-    <link href="http://example.com/2024/10/31/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/uncategorized/15415/"/>
-    <id>http://example.com/2024/10/31/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/uncategorized/15415/</id>
+    <link href="http://www.goved.love/2024/10/31/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/uncategorized/15415/"/>
+    <id>http://www.goved.love/2024/10/31/%E5%85%B3%E4%BA%8E%E6%88%91%E8%87%AA%E5%B7%B1/uncategorized/15415/</id>
     <published>2024-10-31T08:42:54.000Z</published>
     <updated>2024-10-31T08:58:13.146Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-    <category term="关于的标签" scheme="http://example.com/tags/%E5%85%B3%E4%BA%8E%E7%9A%84%E6%A0%87%E7%AD%BE/"/>
+    <category term="关于的标签" scheme="http://www.goved.love/tags/%E5%85%B3%E4%BA%8E%E7%9A%84%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>第三</title>
-    <link href="http://example.com/2024/10/31/%E7%AC%AC%E4%B8%89/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/3669/"/>
-    <id>http://example.com/2024/10/31/%E7%AC%AC%E4%B8%89/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/3669/</id>
+    <link href="http://www.goved.love/2024/10/31/%E7%AC%AC%E4%B8%89/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/3669/"/>
+    <id>http://www.goved.love/2024/10/31/%E7%AC%AC%E4%B8%89/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/3669/</id>
     <published>2024-10-31T08:18:11.000Z</published>
     <updated>2024-10-31T08:22:48.531Z</updated>
     
@@ -58,17 +58,17 @@
     
     
     
-    <category term="分类测试" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
+    <category term="分类测试" scheme="http://www.goved.love/categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="测试标签而已" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE%E8%80%8C%E5%B7%B2/"/>
+    <category term="测试标签而已" scheme="http://www.goved.love/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE%E8%80%8C%E5%B7%B2/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="http://example.com/2024/10/29/%E7%AC%AC%E4%BA%94%E6%AD%A5%EF%BC%9A%E6%9B%B4%E6%94%B9%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/uncategorized/1/"/>
-    <id>http://example.com/2024/10/29/%E7%AC%AC%E4%BA%94%E6%AD%A5%EF%BC%9A%E6%9B%B4%E6%94%B9%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/uncategorized/1/</id>
+    <link href="http://www.goved.love/2024/10/29/%E7%AC%AC%E4%BA%94%E6%AD%A5%EF%BC%9A%E6%9B%B4%E6%94%B9%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/uncategorized/1/"/>
+    <id>http://www.goved.love/2024/10/29/%E7%AC%AC%E4%BA%94%E6%AD%A5%EF%BC%9A%E6%9B%B4%E6%94%B9%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98/uncategorized/1/</id>
     <published>2024-10-29T14:51:03.402Z</published>
     <updated>2024-10-30T09:29:48.909Z</updated>
     
@@ -85,8 +85,8 @@
   
   <entry>
     <title>First</title>
-    <link href="http://example.com/2024/10/29/First/uncategorized/24337/"/>
-    <id>http://example.com/2024/10/29/First/uncategorized/24337/</id>
+    <link href="http://www.goved.love/2024/10/29/First/uncategorized/24337/"/>
+    <id>http://www.goved.love/2024/10/29/First/uncategorized/24337/</id>
     <published>2024-10-29T14:50:07.000Z</published>
     <updated>2024-10-30T09:56:07.531Z</updated>
     
