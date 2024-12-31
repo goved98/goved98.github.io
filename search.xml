@@ -72,9 +72,24 @@
 <p><strong>宽容度:</strong> 宽容度是指相机本身能够容纳（记录）的从最亮到最暗的范围。</p>
 <p><strong>动态范围：</strong> 指成像照片活现场场景中最亮到最暗的范围区间。</p>
 <p><strong>拍摄格式：</strong>RAW   &emsp; OR &emsp; JPG</p>
-<p>​	<strong>RAW:</strong> 一种记录了数码相机传感器的原始信息，同时记录了由相机拍摄所产生的一些元数据（Metadata,如ISO的设置、快门速度、光圈值、白平衡等）的文件。<br>​	画质无损、原始数据。不可留存自定义风格信息（如：色彩风格）。<br>​	优缺点：体积大，信息全面，后期调整空间大，最原始。<br>​	后缀名：**.CR2 &emsp; .ARW &emsp; .DNG&emsp; .NEF**</p>
-<p>​	<strong>JPG&#x2F;JPEG:</strong> 一种针对照片影像而广泛使用的有损压缩标准方法，JPEG是最常见的图像文件格式。<br>​	画质有损，压缩。可留存自定义风格信息（如：色彩风格）。<br>​	优缺点：体积小，有损，后期调整空间小，有调整。<br>​	后缀名：**.jpg**</p>
+<p>​	<strong>RAW:</strong> 一种记录了数码相机传感器的原始信息，同时记录了由相机拍摄所产生的一些元数据（Metadata,如ISO的设置、快门速度、光圈值、白平衡等）的文件。<br>​	画质无损、原始数据。不可留存自定义风格信息（如：色彩风格）。<br>​	优缺点：体积大，信息全面，后期调整空间大，最原始。<br>​	后缀名：.CR2 &emsp; .ARW &emsp; .DNG&emsp; .NEF </p>
+<p>​	<strong>JPG&#x2F;JPEG:</strong> 一种针对照片影像而广泛使用的有损压缩标准方法，JPEG是最常见的图像文件格式。<br>​	画质有损，压缩。可留存自定义风格信息（如：色彩风格）。<br>​	优缺点：体积小，有损，后期调整空间小，有调整。<br>​	后缀名：.jpg</p>
 <p>“直出”的照片，JPG的官感可能好于RAW,因为JPG会有机器内的优化调整。</p>
+<p><strong>相机通用设置思路:</strong> </p>
+<ul>
+<li><p>设置双卡记录（如果有）。</p>
+</li>
+<li><p>设置RAW格式记录。</p>
+</li>
+<li><p>关闭长时间曝光降噪。</p>
+</li>
+<li><p>自定义符合个人习惯的设置。</p>
+<hr>
+<h2 id="三个常用的ND档位："><a href="#三个常用的ND档位：" class="headerlink" title="三个常用的ND档位："></a>三个常用的ND档位：</h2><p><strong>ND8(3Stops):</strong> 蓝调时刻的水面拍摄，以及海水迸溅的拍摄。<br><strong>ND64(6Stops):</strong> 黄金时刻的日出，黄金时刻的车流车轨的拍摄。</p>
+<p><strong>ND1000(10Stops):</strong> 适合大白天的拍摄。</p>
+<hr>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>摄影</category>
